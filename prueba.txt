@@ -1,2 +1,2 @@
-print("hola mundooOOooO")
-print("ayayay que ricoOOOoooOOoo")
+print("hola mundooOOo")
+print("ayayay que ricoOOOoooo")
